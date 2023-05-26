@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>"HIPERVINCULOS"</title>
+</head>
+<body bgcolor="lightgreen">
+<h1><center>Hipervinculos</center></h1><br>
+
+<h2>Hiperv&iacutenculos externos</h2><br>
+
+<a href="https://www.cecyt3.ipn.mx/">"VOCA3"<a/><br><br><br>
+
+<a href="https://es.dragon-ball-official.com/">"SERIE FAVORITA"<a/>
+
+<h2>Hiperv&iacutenculos internos</h2><br>
+
+
+
+
+
+</body>
+</html>
+
